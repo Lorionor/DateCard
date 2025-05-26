@@ -10,7 +10,7 @@ export class DateTransfer{
   second: string;  // 秒
   week: string
   lunarDate: string; // 阴历日
-
+//
   constructor() {
     //新历
     const now = new Date();
