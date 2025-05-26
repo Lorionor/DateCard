@@ -8,10 +8,12 @@
 1、在空项目中选中entry右键选择Atomic Service（元服务）
 ![448ec1286bee0ea732d97002218a646](https://github.com/user-attachments/assets/16445bca-0528-4ee4-a5eb-998204fd0eb7)
 
-2、选择一个模板并配置信息![f7f635a917e09259146a6b2e41d58a6](https://github.com/user-attachments/assets/e8127939-9bd0-40f1-99e2-ea9a49ed5e71)
+2、选择一个模板并配置信息
+![f7f635a917e09259146a6b2e41d58a6](https://github.com/user-attachments/assets/e8127939-9bd0-40f1-99e2-ea9a49ed5e71)
 
 
 3、在detecard目录下的pages文件夹添加卡片页面
+
 ![img_4](https://github.com/user-attachments/assets/ec4bc4ee-b490-4f68-9df4-6e05566f5db6)
 
 
