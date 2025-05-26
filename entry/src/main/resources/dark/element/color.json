@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value":"#000000"
+    },
+    {
+      "name": "date_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "lunarDate",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "card_backgroundColor",
+      "value": "#000000"
+    }
+  ]
+}
