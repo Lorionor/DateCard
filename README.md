@@ -18,6 +18,7 @@
 
 
 4、日期数据处理模块（DateTransfer）负责处理日期逻辑，使用第三方库cjcalendar获取农历，在终端中输入：ohpm install cjcalendar下载第三方库。使用时先创建日期数据对象new DateTransfer()便能获取实时日期数据。
+
 5、在资源文件中适配系统深浅色主题
 ![img_5](https://github.com/user-attachments/assets/7608aef8-a731-470c-94de-3af2fe246592)
 
